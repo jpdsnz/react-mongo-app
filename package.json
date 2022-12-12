@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-application",
+  "version": "1.0.0",
+  "description": "Angular, MongoDb, Express Application for Employee Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpdsnz/MongoDb-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpdsnz/MongoDb-Application/issues"
+  },
+  "homepage": "https://github.com/jpdsnz/MongoDb-Application#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mongodb": "^4.12.1"
+  }
+}

@@ -1,0 +1,7 @@
+npm init -y									(creates package)
+code . 										(opens project in vs code)
+npm install express --save					(install express into package)
+npm install body-parcer --save				(to pass data from request body)
+node index.js								(start the app)
+npm install mongodb --save					(install mongodb to app)
+npm install express-fileupload --save		(install fileuploader)
